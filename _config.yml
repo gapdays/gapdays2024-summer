@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'GAP Days Summer 2024'
+tagline:          'A workshop for GAP developers and users'
+description:      '11-15 March 2024'
+location:         'University of Kaiserslautern-Landau'
+url:              https://www.gapdays.de
+baseurl:          /gapdays2024-summer
+email:            gapdays2024-summer@gapdays.de
+
+exclude: 
+    - "LICENSE.hyde.md"
+    - "README.hyde.md"
+    - "TODO.md"
+    - "program.aux"
+    - "program.log"
+    - "program.out"
+    - "program.tex"
+    - "misc"
