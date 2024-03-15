@@ -2,22 +2,8 @@
 layout: page
 title: Participants
 participants:
-  - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
-
-  - {name: Iryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine}
-
-  - {name: Maryna Raievska, affiliation: University of Warsaw, Warsaw, Poland; Institute of Mathematics of National Academy of Sciences of Ukraine, Kyiv, Ukraine}
-
-  - {name: Lukas Schnelle, affiliation: RWTH Aachen University, Germany}
-
-  - {name: Nusa Zidaric, affiliation: LIACS, Leiden University, Netherlands}
-
-  - {name: Meike Weiß, affiliation: RWTH Aachen University, Germany}
-
-  - {name: Claudio Alexandre Piedade , affiliation: Centro de Matemática da Universidade do Porto, Portugal}
-
   - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
-
+  - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
@@ -50,6 +36,7 @@ participants:
 </ul>
 
 {% endif %}
-
-## Conference photo
+<!-- 
+$# Conference photo
 <img src="{{ site.baseurl }}/public/conference-photo.jpg" />
+-->

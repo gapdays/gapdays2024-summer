@@ -4,11 +4,14 @@ title: Program
 ---
 
 
-* __Start:__ Monday 11 March 2024 <!-- , 9:00 UTC -->
-* __Finish:__ Friday 15 March 2024
+* __Start:__ Monday 26 August 2024 <!-- , 9:00 UTC -->
+* __Finish:__ Friday 30 August 2024
 
 ## Detailed schedule
 
+TBA 
+
+<!-- 
 We will open with a meeting at 10:00 on Monday to coordinate plans for the week,
 and follow a pattern of "Standups" each day at around 9:00 and 16:30, to
 communicate what we plan to work on, and what we have worked on, respectively.
@@ -27,7 +30,7 @@ This schedule is the first draft. Additional information will be added soon.
       - Maybe already working on some good first issues
   - 15:30 Plan for starting with new package list, especially setting of goals
   - 16:30 Stand-up Meeting: Results of first work session and plans for the coming days
-<!--   - 20:00: Get-together at TODO -->
+
 
 - **Tuesday**
   - 9:00 Stand-up Meeting: Plans for the day
@@ -73,3 +76,4 @@ For digital participants we created a [Gather.town meeting room, click here](htt
 ## Topics and projects
 
 See this [HackMD](https://hackmd.io/e8lkzGISSRqoDscXa92uyw)
+-->

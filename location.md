@@ -2,10 +2,10 @@
 layout: page
 title: Location
 ---
-These GAP Days will take place in [Kaiserslautern](https://www.kaiserslautern.de),
-at the [University of Kaiserslautern-Landau](https://rptu.de/en/), also known as
-RPTU Kaiserslautern-Landau or just "RPTU" (and formerly known as TU Kaiserslautern).
+These GAP Days will take place in St Andrews (Scotland),
+at the [University of St Andrews](https://st-andrews.ac.uk).
 
+<!-- 
 ## Address
 
 <a href="https://www.openstreetmap.org/#map=19/49.42347/7.75387">
@@ -25,6 +25,7 @@ The meeting takes place in building 48 in floor 4 (which is the second above gro
 
 If you come by bus, exit at "Uni Zentral" and walk down the stairs.
 <img src="{{ site.baseurl }}/public/campus_rptu.jpg" />
+-->
 
 <!-- 
 
@@ -41,7 +42,7 @@ TODO: recommend some restaurants
 
 ## Virtual locations
 
-In addition, we may use:
+In addition, we might use:
 - The [GAP Slack rooms](https://gap-system.slack.com) for discussions -- requires
   an invitation to join; we will send those to all registered participants.
 - [HackMD](https://hackmd.io) for collaborative writing / editing

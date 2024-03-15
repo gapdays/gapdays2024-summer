@@ -47,8 +47,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 
 {{site.title}} is organised by
 
-* [Max Horn](https://www.quendi.de/en/math)
-* Lukas Schnelle
+* [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 
 
 ## Registration
@@ -57,9 +56,11 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location).
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
+<!--
 ## Sponsors
 
 This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/) - Symbolic Tools in Mathematics and their Application.
+-->
 
 ## <a name="contact"></a> Contact
 

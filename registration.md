@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-registration_state: open
+registration_state: notyet
 ---
 
 {% case page.registration_state %}
