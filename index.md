@@ -48,7 +48,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 {{site.title}} is organised by
 
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
-* [Mun See Change](https://www.st-andrews.ac.uk/computer-science/people/msc2/)
+* [Mun See Chang](https://www.st-andrews.ac.uk/computer-science/people/msc2/)
 
 
 ## Registration
@@ -57,11 +57,10 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 Information about the exact location can be found on [the location page]({{ site.baseurl }}/location).
 For registration use the form on [the registration page]({{ site.baseurl }}/registration).
 
-<!--
+
 ## Sponsors
 
-This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/) - Symbolic Tools in Mathematics and their Application.
--->
+This workshop is supported by the EPSRC ECR International Collaboration Grant [EP/Y000609/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y000609/1).
 
 ## <a name="contact"></a> Contact
 
