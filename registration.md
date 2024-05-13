@@ -17,7 +17,7 @@ registration_state: open
 In order to participate in this meeting, please register with us, even if you only
 wish to join for parts of the meeting.
 
-To register please send an fill out the linked [form]().
+To register please send an fill out the linked [form](https://forms.office.com/e/EkXvkpmrhu).
 
 ### On funding
 
