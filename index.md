@@ -48,6 +48,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 {{site.title}} is organised by
 
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
+* [Mun See Change](https://www.st-andrews.ac.uk/computer-science/people/msc2/)
 
 
 ## Registration
