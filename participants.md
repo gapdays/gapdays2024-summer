@@ -2,6 +2,7 @@
 layout: page
 title: Participants
 participants:
+  - {name: Mun See Chang, affiliation: University of St Andrews, Scotland}
   - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
   - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
 ---
