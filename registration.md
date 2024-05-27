@@ -34,6 +34,14 @@ Initial decisions on whether we can grant support and how much will be made
 on **5th&nbsp;July&nbsp;2024**. We may be able to support later applications
 depending on funds left, so please don't hesitate to ask for funding after this date.
 
+### Carer Fund
+
+For these GAP Days we have also a small pot of funding to additionally support academics with caring responsibilities. 
+If you are needing to cover additional costs arising from attending GAP Days, please email us with the same information as above and please add 
+the estimated additional costs to support attendance.
+
+The deadline for the carer fund is the same as for the general funding (i.e. **5th&nbsp;July&nbsp;2024**).
+
 ### Questions?
 
 <p>
