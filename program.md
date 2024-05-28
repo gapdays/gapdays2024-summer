@@ -7,9 +7,12 @@ title: Program
 * __Start:__ Monday 26 August 2024 <!-- , 9:00 UTC -->
 * __Finish:__ Friday 30 August 2024
 
+We are planning on having sessions covering topics such as "How to GAP?", "How to Version Control for effective collaboration and GAP (package releases)?" and "A celebration of Graphs in GAP, 10 years of the Digraphs package".
+
+But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
 ## Detailed schedule
 
-TBA 
+TBA
 
 <!-- 
 We will open with a meeting at 10:00 on Monday to coordinate plans for the week,
