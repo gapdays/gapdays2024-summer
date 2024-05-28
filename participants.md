@@ -2,9 +2,15 @@
 layout: page
 title: Participants
 participants:
-  - {name: Mun See Chang, affiliation: University of St Andrews, Scotland}
-  - {name: Ruth Hoffmann, affiliation: University of St Andrews, Scotland}
-  - {name: Max Horn, affiliation: University of Kaiserslautern-Landau, Germany}
+  - {name: Mun See Chang, affiliation: University of St Andrews}
+  - {name: Ruth Hoffmann, affiliation: University of St Andrews}
+  - {name: Max Horn, affiliation: University of Kaiserslautern-Landau}
+  - {name: Olexandr Konovalov, affiliation: University of St Andrews}
+  - {name: Rhys Evans, affiliation: Institute of Mathematics, Physics and Mechanics} 
+  - {name: Markus Pfeiffer, affiliation: Huawei R&D Edinburgh}
+  - {name: Michael Young, affiliation: University of St Andrews}
+  - {name: James Mitchell, affiliation: University of St Andrews}
+  - {name: Surinder Kaur, affiliation: SRM University-AP}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
