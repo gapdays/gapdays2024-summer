@@ -27,7 +27,7 @@ The meeting takes place in building 48 in floor 4 (which is the second above gro
 
 [Map of the campus and town.](https://www.st-andrews.ac.uk/media/university/maps/wwwmap.pdf)
 
-The closest airport international airport is the Edinburgh airport. From there, there are various shuttle service or public transport options to St Andrews. For public transports, Google Map information is generally reliable. 
+The closest international airport is the Edinburgh airport. From there, there are various shuttle service or public transport options to St Andrews. For public transports, Google Map information is generally reliable. 
 
 If travelling by train, the closest train station is Leuchars. You can get to St Andrews in 15 minutes via the frequent 99 bus service. 
 
