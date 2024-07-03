@@ -18,6 +18,9 @@ participants:
   - {name: Leila Ghanbari, affiliation: "University of Tehran, Iran"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel"}
   - {name: Manuel Delgado, affiliation: "University of Porto"}
+  - {name: Joseph Edwards, affiliation: "University of St Andrews"}
+  - {name: Peiran Wu, affiliation: "University of St Andrews"}
+  - {name: Wilf Wilson, affiliation: ""}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
