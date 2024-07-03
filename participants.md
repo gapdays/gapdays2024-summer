@@ -6,15 +6,15 @@ participants:
   - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
   - {name: Max Horn, affiliation: "University of Kaiserslautern-Landau"}
   - {name: Olexandr Konovalov, affiliation: "University of St Andrews"}
-  - {name: Rhys Evans, affiliation: "Institute of Mathematics, Physics and Mechanics"} 
+  - {name: Rhys Evans, affiliation: "Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia"} 
   - {name: Markus Pfeiffer, affiliation: "Huawei R&D Edinburgh"}
   - {name: Michael Young, affiliation: "University of St Andrews"}
   - {name: James Mitchell, affiliation: "University of St Andrews"}
   - {name: Surinder Kaur, affiliation: "SRM University-AP"}
   - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen"}
   - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen"}
-  - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute,  Prayagraj"}
-  - {name: Suraj Singh Khurana, affiliation: "Department of Mathematics, SRM University AP, Andhra Pradesh, India pradesh "}
+  - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute, Prayagraj"}
+  - {name: Suraj Singh Khurana, affiliation: "Department of Mathematics, SRM University AP, Andhra Pradesh, India"}
   - {name: Leila Ghanbari, affiliation: "University of Tehran, Iran"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel"}
   - {name: Manuel Delgado, affiliation: "University of Porto"}
