@@ -2,22 +2,22 @@
 layout: page
 title: Participants
 participants:
-  - {name: Mun See Chang, affiliation: "University of St Andrews"}
-  - {name: Ruth Hoffmann, affiliation: "University of St Andrews"}
-  - {name: Max Horn, affiliation: "University of Kaiserslautern-Landau"}
-  - {name: Olexandr Konovalov, affiliation: "University of St Andrews"}
+  - {name: Mun See Chang, affiliation: "University of St Andrews, Scotland"}
+  - {name: Ruth Hoffmann, affiliation: "University of St Andrews, Scotland"}
+  - {name: Max Horn, affiliation: "University of Kaiserslautern-Landau, Germany"}
+  - {name: Olexandr Konovalov, affiliation: "University of St Andrews, Scotland"}
   - {name: Rhys Evans, affiliation: "Institute of Mathematics, Physics and Mechanics, Ljubljana, Slovenia"} 
-  - {name: Markus Pfeiffer, affiliation: "Huawei R&D Edinburgh"}
-  - {name: Michael Young, affiliation: "University of St Andrews"}
-  - {name: James Mitchell, affiliation: "University of St Andrews"}
-  - {name: Surinder Kaur, affiliation: "SRM University-AP"}
-  - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen"}
-  - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen"}
-  - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute, Prayagraj"}
+  - {name: Markus Pfeiffer, affiliation: "Huawei R&D Edinburgh, Scotland"}
+  - {name: Michael Young, affiliation: "University of St Andrews, Scotland"}
+  - {name: James Mitchell, affiliation: "University of St Andrews, Scotland"}
+  - {name: Surinder Kaur, affiliation: "SRM University-AP, India"}
+  - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen, Scotland"}
+  - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen, Germany"}
+  - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute,  Prayagraj, India"}
   - {name: Suraj Singh Khurana, affiliation: "Department of Mathematics, SRM University AP, Andhra Pradesh, India"}
   - {name: Leila Ghanbari, affiliation: "University of Tehran, Iran"}
-  - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel"}
-  - {name: Manuel Delgado, affiliation: "University of Porto"}
+  - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
+  - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
