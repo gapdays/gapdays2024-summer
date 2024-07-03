@@ -20,7 +20,7 @@ participants:
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
   - {name: Joseph Edwards, affiliation: "University of St Andrews, Scotland"}
   - {name: Peiran Wu, affiliation: "University of St Andrews, Scotland"}
-  - {name: Wilf Wilson, affiliation: ""}
+  - {name: Wilf Wilson}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
