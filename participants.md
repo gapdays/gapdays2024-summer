@@ -10,7 +10,6 @@ participants:
   - {name: Markus Pfeiffer, affiliation: "Huawei R&D Edinburgh, Scotland"}
   - {name: Michael Young, affiliation: "University of St Andrews, Scotland"}
   - {name: James Mitchell, affiliation: "University of St Andrews, Scotland"}
-  - {name: Surinder Kaur, affiliation: "SRM University-AP, India"}
   - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen, Scotland"}
   - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen, Germany"}
   - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute,  Prayagraj, India"}
