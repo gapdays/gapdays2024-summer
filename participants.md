@@ -13,13 +13,17 @@ participants:
   - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen, Scotland"}
   - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen, Germany"}
   - {name: Manoj Kumar, affiliation: "Harish-Chandra Research Institute,  Prayagraj, India"}
-  - {name: Suraj Singh Khurana, affiliation: "Department of Mathematics, SRM University AP, Andhra Pradesh, India"}
   - {name: Leila Ghanbari, affiliation: "University of Tehran, Iran"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
   - {name: Joseph Edwards, affiliation: "University of St Andrews, Scotland"}
   - {name: Peiran Wu, affiliation: "University of St Andrews, Scotland"}
   - {name: Wilf Wilson}
+  - {name: Jung Won Cho, affiliation: "University of St Andrews, Scotland"}
+  - {name: Meike Weiß, affiliation: "RWTH Aachen University, Germany"}
+  - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology, Poland"}
+  - {name: Leonard Soicher, affiliation: "Queen Mary University of London, England"}
+  - {name: Tianrun Yang, affiliation: "University of St Andrews, Scotland"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
