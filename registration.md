@@ -25,7 +25,7 @@ We are looking for more talks, so please <a href="mailto:{{site.email}}">contact
 ### On funding
 <s>We have some limited funding to support travel and accommodation costs
 (partially or fully) for participants in need of it. 
-If you do so, please send an email to [{{site.email}}](mailto:{{site.email}}) containing the following information
+If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.email}}</a> containing the following information
 
 - provide an estimate of much support you expect to need, and
 - include a brief explanation of the aims you hope to achieve during
@@ -42,7 +42,7 @@ We may be able to support later applications depending on funds left, so please 
 If you are needing to cover additional costs arising from attending GAP Days, please email us with the same information as above and please add 
 the estimated additional costs to support attendance.
 
-The deadline for the carer fund is the same as for the general funding (i.e. **5th&nbsp;July&nbsp;2024**).</s>
+The deadline for the carer fund is the same as for the general funding (i.e. <b>5th&nbsp;July&nbsp;2024</b>).</s>
 The deadline has now passed.
 We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
 
