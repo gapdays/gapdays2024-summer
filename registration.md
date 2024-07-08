@@ -35,7 +35,7 @@ If you do so, please send an email to <a href="mailto:{{site.email}}">{{site.ema
 Initial decisions on whether we can grant support and how much will be made
 on <b>5th&nbsp;July&nbsp;2024</b>.</s>
 The deadline has now passed.
-We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
+We may be able to support later applications depending on the amount, so please don't hesitate to ask.
 
 ### Carer Fund
 <s>For these GAP Days we have also a small pot of funding to additionally support academics with caring responsibilities. 
@@ -44,8 +44,7 @@ the estimated additional costs to support attendance.
 
 The deadline for the carer fund is the same as for the general funding (i.e. <b>5th&nbsp;July&nbsp;2024</b>).</s>
 The deadline has now passed.
-We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
-
+We may be able to support later applications depending on the amount, so please don't hesitate to ask.
 
 ### Questions?
 
