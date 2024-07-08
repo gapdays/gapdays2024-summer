@@ -23,7 +23,7 @@ To register please send an fill out the linked [form](https://forms.office.com/e
 We are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
 
 ### On funding
-~~We have some limited funding to support travel and accommodation costs
+<s>We have some limited funding to support travel and accommodation costs
 (partially or fully) for participants in need of it. 
 If you do so, please send an email to [{{site.email}}](mailto:{{site.email}}) containing the following information
 
@@ -33,16 +33,16 @@ If you do so, please send an email to [{{site.email}}](mailto:{{site.email}}) co
   beneficial to the GAP system and community.
 
 Initial decisions on whether we can grant support and how much will be made
-on **5th&nbsp;July&nbsp;2024**.~~
+on **5th&nbsp;July&nbsp;2024**.</s>
 The deadline has now passed.
 We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
 
 ### Carer Fund
-~~For these GAP Days we have also a small pot of funding to additionally support academics with caring responsibilities. 
+<s>For these GAP Days we have also a small pot of funding to additionally support academics with caring responsibilities. 
 If you are needing to cover additional costs arising from attending GAP Days, please email us with the same information as above and please add 
 the estimated additional costs to support attendance.
 
-The deadline for the carer fund is the same as for the general funding (i.e. **5th&nbsp;July&nbsp;2024**).~~
+The deadline for the carer fund is the same as for the general funding (i.e. **5th&nbsp;July&nbsp;2024**).</s>
 The deadline has now passed.
 We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
 
