@@ -33,7 +33,7 @@ If you do so, please send an email to [{{site.email}}](mailto:{{site.email}}) co
   beneficial to the GAP system and community.
 
 Initial decisions on whether we can grant support and how much will be made
-on **5th&nbsp;July&nbsp;2024**.</s>
+on <b>5th&nbsp;July&nbsp;2024</b>.</s>
 The deadline has now passed.
 We may be able to support later applications depending on funds left, so please don't hesitate to ask for funding after this date.
 
