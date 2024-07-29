@@ -3,7 +3,7 @@ layout: page
 title: Location
 ---
 These GAP Days will take place in St Andrews (Scotland),
-at the [University of St Andrews](https://st-andrews.ac.uk).
+at the [University of St Andrews](https://www.st-andrews.ac.uk/).
 
 
 ## Address
