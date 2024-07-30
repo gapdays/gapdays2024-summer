@@ -12,7 +12,56 @@ We are planning on having sessions covering topics such as "How to GAP?", "How t
 But we are looking for more talks, so please <a href="mailto:{{site.email}}">contact us via email</a> and let us know if you would like to give a talk about your research! We welcome talks about computational mathematics research, which utilised GAP.
 ## Detailed schedule
 
-TBA
+We will open with a meeting at Monday morning to coordinate plans for the week,
+and follow a pattern of "Standups" each day at around 9:00 and 16:45, to
+communicate what we plan to work on, and what we have worked on, respectively.
+
+This schedule is the first draft. Additional information will be added soon.
+
+- **Monday**
+  - 10:00 Welcome 
+  - 10:30 (In parallel) GAP workshop I/ Work session
+  - 12:30 *Lunch break*
+  - 13:30 (In parallel) GAP workshop II/ Work session
+
+- **Tuesday**
+  - 9:00 Stand-up Meeting: Plans for the day
+  - 9:15 Work session
+  - 10:30 Talk
+  - 11:00 Work session
+  - 12:30 *Lunch break*
+  - *Afternoon: Free time + organised walk around St Andrews*
+
+- **Wednesday** 
+  - 9:00 **Digraphs Half-day**
+  - 12:30 *Lunch break*
+  - 13:30 Work session
+  - 15:00 Talks
+  - 16:00 Work session
+  - 16:45 Stand-up Meeting: Results from work sessions
+
+- **Thursday**
+  - 9:00 Stand-up Meeting: Plans for the day
+  - 9:15 Work session
+  - 10:30 Talk
+  - 11:00 Work session
+  - 12:30 *Lunch break*
+  - 13:30 Work session
+  - 15:00 Talk
+  - 15:30 Work session
+  - 16:45 Stand-up Meeting: Results from work sessions
+
+- **Friday**
+  - 9:00 Stand-up Meeting: Plans for the day
+  - 9:15 Work session
+  - 10:30 Talk
+  - 11:00 Work session
+  - 12:30 *Lunch break*
+  - 13:30 Work session
+  - 14:15 Talk
+  - 15:00 Closing
+
+
 
 <!-- 
 We will open with a meeting at 10:00 on Monday to coordinate plans for the week,
