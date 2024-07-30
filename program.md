@@ -16,18 +16,18 @@ We will open with a meeting at Monday morning to coordinate plans for the week,
 and follow a pattern of "Standups" each day at around 9:00 and 16:45, to
 communicate what we plan to work on, and what we have worked on, respectively.
 
-This schedule is the first draft. Additional information will be added soon.
+This schedule is subject to change. 
 
 - **Monday**
   - 10:00 Welcome 
-  - 10:30 (In parallel) GAP workshop I/ Work session
+  - 10:30 (In parallel) [GAP workshop I](https://carpentries-incubator.github.io/gap-lesson/)/ Work session
   - 12:30 *Lunch break*
-  - 13:30 (In parallel) GAP workshop II/ Work session
+  - 13:30 (In parallel) [GAP workshop II](https://carpentries-incubator.github.io/gap-lesson/)/ Work session
 
 - **Tuesday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk
+  - 10:30 Talk: *"Package management in GAP: future plans"* (Michael Young)
   - 11:00 Work session
   - 12:30 *Lunch break*
   - *Afternoon: Free time + organised walk around St Andrews*
@@ -36,29 +36,29 @@ This schedule is the first draft. Additional information will be added soon.
   - 9:00 **Digraphs Half-day**
   - 12:30 *Lunch break*
   - 13:30 Work session
-  - 15:00 Talks
+  - 15:00 Talk: *"The effective use of the GRAPE package for computing with graphs and groups"* (Leonard Soicher)
+  - 15:30 Talk: *"Searching for examples of numerical semigroups using the numericalsgps package"* (Manuel Delgado)
   - 16:00 Work session
   - 16:45 Stand-up Meeting: Results from work sessions
 
 - **Thursday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk
+  - 10:30 Talk: *"Usage of GAP in Topological Interlocking Research"* (Lukas Schnelle)
   - 11:00 Work session
   - 12:30 *Lunch break*
   - 13:30 Work session
-  - 15:00 Talk
+  - 15:00 Talk: *"Embedding Cubic Graphs on Simplicial Surfaces"* (Meike Weiß)
   - 15:30 Work session
   - 16:45 Stand-up Meeting: Results from work sessions
 
 - **Friday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk
+  - 10:30 Talk: *"On some properties of antimagmas"* (Kamil Zabielski)
   - 11:00 Work session
   - 12:30 *Lunch break*
   - 13:30 Work session
-  - 14:15 Talk
   - 15:00 Closing
 
 
