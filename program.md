@@ -55,7 +55,7 @@ This schedule is subject to change.
 - **Friday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk: *"On some properties of antimagmas"* (Kamil Zabielski)
+  - 10:30 Talk: *"On some properties of small antimagmas and a short story of group ring isomorphism problem framework - eMGA"* (Kamil Zabielski)
   - 11:00 Work session
   - 12:30 *Lunch break*
   - 13:30 Work session
