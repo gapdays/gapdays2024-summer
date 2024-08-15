@@ -24,6 +24,8 @@ participants:
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, England"}
   - {name: Tianrun Yang, affiliation: "University of St Andrews, Scotland"}
   - {name: Fatemeh Koorepazan Moftakhar, affiliation: "Sharif University of Technology, Iran"}
+  - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
+  - {name: Murray Whyte, affiliation: "University of St Andrews, Scotland"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
