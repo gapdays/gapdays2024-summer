@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /abstracts/linton
+permalink: /abstracts/schnelle
 ---
 
 ## Lukas Schnelle
