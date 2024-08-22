@@ -36,7 +36,7 @@ This schedule is subject to change.
   - 9:00 **Digraphs Half-day**
   - 12:30 *Lunch break*
   - 13:30 Work session
-  - 15:00 Talk: *"The effective use of the GRAPE package for computing with graphs and groups"* (Leonard Soicher)
+  - 15:00 Talk: *"The effective use of the GRAPE package for computing with graphs and groups"* (Leonard Soicher) ([abstract]({{ site.baseurl }}/abstracts/soicher))
   - 15:30 Talk: *"Searching for examples of numerical semigroups using the numericalsgps package"* (Manuel Delgado)
   - 16:00 Work session
   - 16:45 Stand-up Meeting: Results from work sessions
@@ -44,7 +44,7 @@ This schedule is subject to change.
 - **Thursday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk: *"Usage of GAP in Topological Interlocking Research"* (Lukas Schnelle)
+  - 10:30 Talk: *"Usage of GAP in Topological Interlocking Research"* (Lukas Schnelle) ([abstract]({{ site.baseurl }}/abstracts/schnelle))
   - 11:00 Work session
   - 12:30 *Lunch break*
   - 13:30 Work session
