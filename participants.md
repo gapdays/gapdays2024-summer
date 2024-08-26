@@ -26,6 +26,7 @@ participants:
   - {name: Fatemeh Koorepazan Moftakhar, affiliation: "Sharif University of Technology, Iran"}
   - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
   - {name: Murray Whyte, affiliation: "University of St Andrews, Scotland"}
+  - {name: Robin Hankin, affiliation: "University of Stirling, Scotland"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
