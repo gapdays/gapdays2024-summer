@@ -50,7 +50,7 @@ This schedule is subject to change.
   - 11:00 Work session
   - 12:30 *Lunch break*
   - 13:30 Work session
-  - 15:00 Talk: *"Embedding Cubic Graphs on Simplicial Surfaces"* (Meike Weiß)
+  - 15:00 Talk: *"Embedding Cubic Graphs on Simplicial Surfaces"* (Meike Weiß)([abstract]({{ site.baseurl }}/abstracts/weiss))
   - 15:30 Work session
   - 16:45 Stand-up Meeting: Results from work sessions
 
