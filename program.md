@@ -27,8 +27,9 @@ This schedule is subject to change.
 - **Tuesday**
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
-  - 10:30 Talk: *"Package management in GAP: future plans"* (Michael Young)
-  - 11:00 Work session
+  - 10:30 Talk: *"Package management in GAP: future plans"* (Michael Young)([abstract]({{ site.baseurl }}/abstracts/young))
+  - 11:00 Talk: *"Nonassociative algebra in the R programming language"* (Robin Hankin)
+  - 11:30 Work session
   - 12:30 *Lunch break*
   - *Afternoon: Free time + organised walk around St Andrews*
 
