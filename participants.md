@@ -12,7 +12,6 @@ participants:
   - {name: James Mitchell, affiliation: "University of St Andrews, Scotland"}
   - {name: Shaun Alan Isherwood, affiliation: "University of Aberdeen, Scotland"}
   - {name: Lukas Schnelle, affiliation: "SLA, ART at RWTH Aachen, Germany"}
-  - {name: Leila Ghanbari, affiliation: "University of Tehran, Iran"}
   - {name: Jan De Beule, affiliation: "Vrije Universiteit Brussel, Belgium"}
   - {name: Manuel Delgado, affiliation: "University of Porto, Portugal"}
   - {name: Joseph Edwards, affiliation: "University of St Andrews, Scotland"}
@@ -23,10 +22,10 @@ participants:
   - {name: Kamil Zabielski, affiliation: "Bialystok University of Technology, Poland"}
   - {name: Leonard Soicher, affiliation: "Queen Mary University of London, England"}
   - {name: Tianrun Yang, affiliation: "University of St Andrews, Scotland"}
-  - {name: Fatemeh Koorepazan Moftakhar, affiliation: "Sharif University of Technology, Iran"}
   - {name: Reinis Cirpons, affiliation: "University of St Andrews, Scotland"}
   - {name: Murray Whyte, affiliation: "University of St Andrews, Scotland"}
   - {name: Robin Hankin, affiliation: "University of Stirling, Scotland"}
+  - {name: Christopher Jefferson, affiliation: "University of Dundee, Scotland"}
 ---
 
 <ol>{% assign participants = page.participants | sort: "name" %}
