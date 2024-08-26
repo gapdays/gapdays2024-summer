@@ -49,7 +49,7 @@ algorithmic group theory in a relaxed and friendly atmosphere.
 
 * [Ruth Hoffmann](https://www.st-andrews.ac.uk/computer-science/people/rh347/)
 * [Mun See Chang](https://www.st-andrews.ac.uk/computer-science/people/msc2/)
-
+* [Michael Young](https://www.st-andrews.ac.uk/computer-science/people/mct25/)
 
 ## Registration
 
