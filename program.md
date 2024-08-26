@@ -32,6 +32,7 @@ This schedule is subject to change.
   - 11:30 Work session
   - 12:30 *Lunch break*
   - *Afternoon: Free time + organised walk around St Andrews*
+  - **13:30 Working session: The future of GAP** (Optional) 
 
 - **Wednesday** 
   - 9:00 **Digraphs Half-day**
