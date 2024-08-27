@@ -37,6 +37,7 @@ This schedule is subject to change.
 
 - **Wednesday** 
   - 9:00 **Digraphs Half-day**
+  - 10:00 Talk: *"Digraphs' 10th Anniversary"* (Michael Young)
   - 12:30 *Lunch break*
   - 13:30 Work session
   - 15:00 Talk: *"The effective use of the GRAPE package for computing with graphs and groups"* (Leonard Soicher) ([abstract]({{ site.baseurl }}/abstracts/soicher))
