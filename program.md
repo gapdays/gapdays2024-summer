@@ -31,8 +31,9 @@ This schedule is subject to change.
   - 11:00 Talk: *"Nonassociative algebra in the R programming language"* (Robin Hankin)
   - 11:30 Work session
   - 12:30 *Lunch break*
-  - *Afternoon: Free time + organised walk around St Andrews*
   - **13:30 Working session: The future of GAP** (Optional) 
+  - 16:45 Stand-up Meeting: Results from work sessions
+
 
 - **Wednesday** 
   - 9:00 **Digraphs Half-day**
@@ -47,12 +48,11 @@ This schedule is subject to change.
   - 9:00 Stand-up Meeting: Plans for the day
   - 9:15 Work session
   - 10:30 Talk: *"Usage of GAP in Topological Interlocking Research"* (Lukas Schnelle) ([abstract]({{ site.baseurl }}/abstracts/schnelle))
-  - 11:00 Work session
+  - 11:00 Talk: *"Embedding Cubic Graphs on Simplicial Surfaces"* (Meike Weiß)([abstract]({{ site.baseurl }}/abstracts/weiss))
+  - 11:30 Work session
   - 12:30 *Lunch break*
-  - 13:30 Work session
-  - 15:00 Talk: *"Embedding Cubic Graphs on Simplicial Surfaces"* (Meike Weiß)([abstract]({{ site.baseurl }}/abstracts/weiss))
-  - 15:30 Work session
-  - 16:45 Stand-up Meeting: Results from work sessions
+  - *Afternoon: Free time + organised walk around St Andrews*
+  
 
 - **Friday**
   - 9:00 Stand-up Meeting: Plans for the day
