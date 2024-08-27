@@ -31,7 +31,7 @@ This schedule is subject to change.
   - 11:00 Talk: *"Nonassociative algebra in the R programming language"* (Robin Hankin)
   - 11:30 Work session
   - 12:30 *Lunch break*
-  - 13:30 Working session/The future of GAP **in Jack Cole/School of Computer Science Room 1.33a/b, [map](https://www.google.co.uk/maps/place/Jack+Cole+Building,+π+Potato+Ave,+St+Andrews+KY16+9SX/@56.3403135,-2.8113253,17z/data=!3m1!4b1!4m6!3m5!1s0x48865782dafac727:0xf582ae2e52ec3f09!8m2!3d56.3403106!4d-2.8087504!16s%2Fg%2F1vhq38kw?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D) 
+  - 13:30 (in parallel) Work session/The future of GAP **in Jack Cole/School of Computer Science Room 1.33a/b** [map](https://www.google.co.uk/maps/place/Jack+Cole+Building,+π+Potato+Ave,+St+Andrews+KY16+9SX/@56.3403135,-2.8113253,17z/data=!3m1!4b1!4m6!3m5!1s0x48865782dafac727:0xf582ae2e52ec3f09!8m2!3d56.3403106!4d-2.8087504!16s%2Fg%2F1vhq38kw?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D)
   - 16:45 Stand-up Meeting: Results from work sessions
 
 
